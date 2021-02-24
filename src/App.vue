@@ -11,7 +11,9 @@
         />
     </div>
 
+
 </template>
+
 
 <script>
     import tabula from '@/components/tabula'
