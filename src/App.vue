@@ -10,6 +10,7 @@
                 @toggleCheckbox="ToggleCheckbox"
         />
     </div>
+
 </template>
 
 <script>
